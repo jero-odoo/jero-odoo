@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&color=3C8B95&multiline=true&width=435&lines=Jess+Rogers;Technical+Writer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&pause=250&color=3C8B95&multiline=true&width=435&lines=Jess+Rogers;Technical+Writer)](https://git.io/typing-svg)
 
 <!--
 **jero-odoo/jero-odoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
